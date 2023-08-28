@@ -1,4 +1,5 @@
 INDEX VERSION 1.132
+<<<<<<< HEAD
 C:\bbagymJsp\bbagym\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3347215100.index
 \bbagym2\src\main\java
 C:\bbagymJsp\bbagym\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3860508389.index
@@ -15,3 +16,7 @@ C:\bbagymJsp\bbagym\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\340836
 \bbagym\src\main\java
 C:\bbagymJsp\bbagym\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1248852004.index
 \bbagym2\src\main\java
+=======
+D:\bbagym\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3408361105.index
+\bbagym\src\main\java
+>>>>>>> 21631ce90ae70cc0c62f7d872dccde80013c225f
