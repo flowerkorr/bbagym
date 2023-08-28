@@ -16,7 +16,7 @@
 <jsp:include page="header.jsp"></jsp:include>
             <div class="header_full_box">
             <div class="header_nav"><a href="main.html"><img src="img/로고.png" width="100px" height="40px"></a></div>
-            <div class="header_nav"><a href="/ljm/gymList.html">운동시설</a></div>
+            <div class="header_nav"><a href="jsp/view/gymList.jsp">운동시설</a></div>
             <div class="header_nav"><a href="/pmg/myPage.html">마이페이지</a></div>
             <div class="header_nav"><a href="/nyc/announcement .html">공지사항</a></div>
             <div class="header_nav"><a href="/nyc/FAQ.html">FAQ</a></div>
